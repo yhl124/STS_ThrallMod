@@ -1,0 +1,26 @@
+﻿{
+	"Totem":{
+		"NAME": "Totemic Call",
+		"FLAVOR": "Hearthstone",
+		"DESCRIPTIONS":[
+		 "At the end of your turn, restore #y2 HP or gain #y7 Block or gain #y1 Strength or Deal #y7 damage to a random enemy."]
+	},
+	"Totemicslam":{
+		"NAME": "Totemic Slam",
+		"FLAVOR": "Hearthstone",
+		"DESCRIPTIONS":[
+		 "Replaces Totemic Call. NL At the start of your turn, choose a Totem Card. NL ( [E] is 0, Exhaust )"]
+	},
+	"Lavashock":{
+		"NAME": "Lava Shock",
+		"FLAVOR": "OVERLOADS..",
+		"DESCRIPTIONS":[
+		 "Whenever you play a Overload card, reduce #b1 Overload. (Up to 5 cards per combat)"]
+	},
+	"Omegamind":{
+		"NAME": "Omega Mind",
+		"FLAVOR": "A strange card",
+		"DESCRIPTIONS":[
+		 "Restore 50% of the 10th single target attack card damage I use."]
+	}
+}

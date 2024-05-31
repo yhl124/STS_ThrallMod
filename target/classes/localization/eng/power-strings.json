@@ -1,0 +1,81 @@
+﻿{
+  "Overload": {
+    "NAME": "Overload",
+    "DESCRIPTIONS": [
+      "You have #b",
+      " less energy next turn."
+    ]
+  },
+  "Overloadapply": {
+    "NAME": "Overload applied",
+    "DESCRIPTIONS": [
+      "Reduce #b",
+      " energy this turn."
+    ]
+  },
+  "Hallazealpower": {
+    "NAME": "Hallazeal the Ascended	",
+    "DESCRIPTIONS": [
+      "Whenever an attack card deals damage, heal for 50% of damage."
+    ]
+  },
+  "Troggpower": {
+    "NAME": "Tunnel Trogg",
+    "DESCRIPTIONS": [
+      "Whenever you #yOverload, gain #Strength per locked energy."
+    ]
+  },
+  "Therunespearpower": {
+    "NAME": "The Runespear",
+    "DESCRIPTIONS": [
+      "Discover a card after using an attack card. NL Reduce the cost of the card by 1 for this turn."
+    ]
+  },
+  "Manatidepower": {
+    "NAME": "Mana Tide Totem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b",
+	  " more card."
+    ]
+  },
+  "Rockbiterpower": {
+    "NAME": "Rockbiter Weapon",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+	  " #yStrength."
+    ]
+  },
+  "Vitalitypower": {
+    "NAME": "Vitality Totem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, restore #b",
+	  " HP."
+    ]
+  },
+  "Rumblingpower": {
+    "NAME": "Rumbling Elemental",
+    "DESCRIPTIONS": [
+      "Whenever you play an attack card, deal #b",
+	  " damage to a random enemy."
+    ]
+  },
+  "Frogpower": {
+    "NAME": "Spirit of the Frog",
+    "DESCRIPTIONS": [
+      "Whenever you play an #ySkill card, draw #b",
+	  " #ySkill card(s)."
+    ]
+  },
+  "Hagathapower": {
+    "NAME": "Hagatha the Witch",
+    "DESCRIPTIONS": [
+      "Whenever you play an #ySkill card, add a random #ySkill card to your hand."
+    ]
+  },
+  "DThrallpower": {
+    "NAME": "Thrall, Deathseer",
+    "DESCRIPTIONS": [
+      "At the start of your turn, Upgrade a card in your hand for the rest of combat."
+    ]
+  }
+}

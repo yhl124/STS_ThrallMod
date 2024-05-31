@@ -1,0 +1,10 @@
+{
+    "OVERLOAD": {
+      "NAMES": [
+        "과부하",
+		"overload"
+      ],
+      "DESCRIPTION": "다음 턴에 얻는 에너지가 #b 만큼 감소합니다."
+    }
+  }
+}

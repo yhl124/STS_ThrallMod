@@ -1,0 +1,81 @@
+{
+  "Overload": {
+    "NAME": "과부하",
+    "DESCRIPTIONS": [
+      "다음 턴에 얻는 에너지가 #b",
+      " 만큼 감소합니다."
+    ]
+  },
+  "Overloadapply": {
+    "NAME": "적용된 과부하",
+    "DESCRIPTIONS": [
+      "이번 턴 에너지가 #b",
+      " 만큼 감소했습니다."
+    ]
+  },
+  "Hallazealpower": {
+    "NAME": "승천한 할라질",
+    "DESCRIPTIONS": [
+      "공격 카드로 피해를 줄 때마다 그 피해의 50%를 회복합니다."
+    ]
+  },
+  "Troggpower": {
+    "NAME": "땅굴 트로그",
+    "DESCRIPTIONS": [
+      "#내가 카드를 사용해 y과부하 를 얻는만큼 힘을 얻습니다."
+    ]
+  },
+  "Therunespearpower": {
+    "NAME": "룬의 창",
+    "DESCRIPTIONS": [
+      "#y공격 카드를 사용한 후에 카드 1장을 발견 합니다. NL 이번 턴에만 그 카드의 비용이 1 감소합니다."
+    ]
+  },
+  "Manatidepower": {
+    "NAME": "마나 해일 토템",
+    "DESCRIPTIONS": [
+      "내 턴이 시작할 때, #b",
+	  " 장의 카드를 더 뽑습니다."
+    ]
+  },
+  "Rockbiterpower": {
+    "NAME": "대지의 무기",
+    "DESCRIPTIONS": [
+      "내 턴이 끝나면, #b",
+	  " 의 힘을 잃습니다."
+    ]
+  },
+  "Vitalitypower": {
+    "NAME": "활력의 토템",
+    "DESCRIPTIONS": [
+      "내 턴이 끝날 때, #b",
+	  " 의 체력을 회복합니다."
+    ]
+  },
+  "Rumblingpower": {
+    "NAME": "지축을 울리는 정령",
+    "DESCRIPTIONS": [
+      "공격 카드를 사용할 때 마다, 임의의 적에게 #b",
+	  " 의 피해를 줍니다."
+    ]
+  },
+  "Frogpower": {
+    "NAME": "개구리의 혼",
+    "DESCRIPTIONS": [
+      "#y스킬 카드를 사용할 때 마다, #y스킬 카드를 #b",
+	  " 장 뽑습니다."
+    ]
+  },
+  "Hagathapower": {
+    "NAME": "마녀 하가사",
+    "DESCRIPTIONS": [
+      "#y스킬 카드를 사용할 때마다 무작위 #y스킬 카드 1 장을 얻습니다."
+    ]
+  },
+  "DThrallpower": {
+    "NAME": "사령술사 스랄",
+    "DESCRIPTIONS": [
+      "내 턴이 시작할 때 손에 있는 무작위 카드 1 장을 이번 전투동안 강화합니다."
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "Strike_Thrall": {
+    "NAME": "타격",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "Defend_Thrall": {
+    "NAME": "수비",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다."
+  },
+  "Farsight": {
+    "NAME": "천리안",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 뽑은 카드가 이번 전투동안 NL 비용이 1 감소합니다"
+  },
+  "Lightningbolt": {
+    "NAME": "번개화살",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 과부하 : ( !M! )"
+  },
+  "Earthshock": {
+    "NAME": "대지충격",
+    "DESCRIPTION": "피해 를 !D! 주고 NL 취약 을 !M! 부여합니다."
+  },
+  "Manatidetotem": {
+    "NAME": "마나 해일 토템",
+    "DESCRIPTION": "내 턴이 시작할 때 카드를 1장 더 뽑습니다.",
+	"UPGRADE_DESCRIPTION": "선천성 NL 내 턴이 시작할 때 카드를 1장 더 뽑습니다."
+  },
+  "Flametonguetotem": {
+    "NAME": "불꽃의 토템",
+    "DESCRIPTION": "내 유물 3개마다 NL 힘 을 !M! 얻습니다."
+  },
+  "Doomhammer": {
+    "NAME": "둠해머",
+    "DESCRIPTION": "힘 을 0 얻습니다. NL 과부하 : ( !M! )",
+	"UPGRADE_DESCRIPTION": "힘 을 5 얻습니다. NL 과부하 : ( !M! )"
+  },
+  "Hallazeal": {
+    "NAME": "승천한 할라질",
+    "DESCRIPTION": "공격 카드로 피해를 줄 때마다 그 피해의 50%를 회복합니다."
+  },
+  "Tunneltrogg": {
+    "NAME": "땅굴 트로그",
+    "DESCRIPTION": "과부하 를 얻는만큼 힘 을 얻습니다.",
+	"UPGRADE_DESCRIPTION": "선천성 NL 과부하 를 얻는만큼 힘 을 얻습니다."
+  },
+  "Therunespear": {
+    "NAME": "룬의 창",
+    "DESCRIPTION": "공격 카드를 사용 할 때마다 카드 1장을 발견 합니다. NL 이번 턴에만 그 카드의 비용이 1 감소합니다."
+  },
+  "Eureka": {
+    "NAME": "유레카!",
+    "DESCRIPTION": "내 손에 있는 임의의 파워 카드 NL !M! 장을 사용합니다.",
+	"UPGRADE_DESCRIPTION": "내 손에 있는 임의의 파워 카드 NL !M! 장을 사용합니다."
+  },
+  "Earthelemental": {
+    "NAME": "대지의 정령",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 과부하 : ( !M! )"
+  },
+  "Hex": {
+    "NAME": "사술",
+    "DESCRIPTION": "적에게 약화 를 !M! 부여합니다 NL 소멸"
+  },
+  "Devolve": {
+    "NAME": "퇴화",
+    "DESCRIPTION": "적 전체에 약화 를 !M! 부여합니다. NL 소멸",
+	"UPGRADE_DESCRIPTION": "적 전체에 약화 를 !M! 부여합니다."
+  },
+  "Elementaryreaction": {
+    "NAME": "원소 반응",
+    "DESCRIPTION": "카드를 !M! 장 뽑습니다. NL 그 카드를 복사해 가져옵니다."
+  },
+  "Ancestralknow": {
+    "NAME": "선조의 지혜",
+    "DESCRIPTION": "카드를 4 장 뽑습니다. NL 과부하 : ( !M! )"
+  },
+  "Eternalsentinel": {
+    "NAME": "영원한 감시자",
+    "DESCRIPTION": "과부하 된 [E] 를 모두 해제합니다."
+  },
+  "Rockbiter": {
+    "NAME": "대지의 무기",
+    "DESCRIPTION": "힘 을 !M! 얻습니다. NL 턴이 끝나면 !M! 의 힘 을 잃습니다."
+  },
+  "Maelstromportal": {
+    "NAME": "혼돈의 소용돌이 차원문",
+    "DESCRIPTION": "적 전체에 피해를 !D! 줍니다. NL 임의의 효과를 1 얻습니다.",
+	"UPGRADE_DESCRIPTION": "적 전체에 피해를 !D! 줍니다. NL 임의의 이로운 효과를 1 얻습니다."
+  },
+  "Crackle": {
+    "NAME": "파지직",
+    "DESCRIPTION": "적에게 피해를 NL !D! + (0-5) 줍니다. NL 과부하 : ( !M! )"
+  },
+  "Lightningstorm": {
+    "NAME": "번개 폭풍",
+    "DESCRIPTION": "모든 적에게 피해를 NL !D! + (0-5) 줍니다. NL 과부하 : ( !M! )"
+  },
+  "Volcano": {
+    "NAME": "화산",
+    "DESCRIPTION": "!D! 의 피해를 무작위로 나눠 입힙니다. NL 과부하 : ( !M! )"
+  },
+  "Elementaldestruction": {
+    "NAME": "파괴의 정기",
+    "DESCRIPTION": "모든 적에게 피해를 NL !D! + (0 or 10 or 20)줍니다. NL 과부하 : ( !M! )"
+  },
+  "Lavaburst": {
+    "NAME": "용암 폭발",
+    "DESCRIPTION": "적에게 피해를 !D! 줍니다. NL 과부하 : ( !M! )"
+  },
+  "Forkedlightning": {
+    "NAME": "갈래 번개",
+    "DESCRIPTION": "임의의 2명의 적에게 각각 NL !D! 의 피해를 줍니다. NL 과부하 : ( !M! )"
+  },
+  "Basicattack": {
+    "NAME": "불타는 토템",
+    "DESCRIPTION": "임의의 적에게 피해를 !D! 줍니다. NL 소멸"
+  },
+  "Basicarmor": {
+    "NAME": "돌발톱 토템",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 소멸"
+  },
+  "Basicstrength": {
+    "NAME": "천벌의 토템",
+    "DESCRIPTION": "힘 을 !M! 얻습니다. NL 소멸"
+  },
+  "Basicheal": {
+    "NAME": "치유의 토템",
+    "DESCRIPTION": "체력을 !M! 회복합니다. NL 소멸"
+  },
+  "Healingrain": {
+    "NAME": "치유의 비",
+    "DESCRIPTION": "체력을 !D! 회복합니다. NL 힘 의 영향을 받습니다. NL 소멸"
+  },
+  "Healingwave": {
+    "NAME": "치유의 물결",
+    "DESCRIPTION": "체력을 !M! 회복합니다. NL 공격하려는 적이 있다면 한 번 더 회복합니다. NL 소멸",
+	"UPGRADE_DESCRIPTION": "체력을 !M! 회복합니다. NL 공격하려는 적이 있다면 한 번 더 회복합니다."
+  },
+  "Drakkaridefender": {
+    "NAME": "드라카리 수호병",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. NL 과부하 : ( !M! ) NL 소멸"
+  },
+  "Cryostasis": {
+    "NAME": "급속 빙결",
+    "DESCRIPTION": "힘 을 !M! 얻습니다. NL 속박 을 얻습니다."
+  },
+  "Shudderwock": {
+    "NAME": "두억시니",
+    "DESCRIPTION": "이번 전투 동안 사용한 [E] 가 X가 아닌 공격카드를 모두 사용합니다. NL (대상은 랜덤), 소멸"
+  },
+  "Jadecheiftain": {
+    "NAME": "비취 족장",
+    "DESCRIPTION": "방어도 를 !B! 만큼 얻습니다. NL 힘 의 50% 만큼 더 얻습니다."
+  },
+  "Reincarnate": {
+    "NAME": "윤회",
+    "DESCRIPTION": "소멸 카드더미에서 무작위 !M! 장의 카드를 손으로 가져옵니다. NL 소멸"
+  },
+  "Frostshock": {
+    "NAME": "냉기 충격",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 힘 을 !M! 감소시킵니다."
+  },
+  "Murksparkeel": {
+    "NAME": "수렁불꽃 뱀장어",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 뽑을 카드더미에 [E] 가 홀수인 카드만 있다면, 세 배의 피해를 줍니다."
+  },
+  "Witchsapprentice": {
+    "NAME": "마녀의 수습생",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 임의의 스킬 카드 1 장을 얻습니다. NL 소멸"
+  },
+  "Jinyu": {
+    "NAME": "진위 물예언자",
+    "DESCRIPTION": "체력을 5 회복합니다. NL 과부하 : ( !M! )",
+	"UPGRADE_DESCRIPTION": "체력을 7 회복합니다. NL 과부하 : ( !M! )"
+  },
+  "Thingfrombelow": {
+    "NAME": "심연의 괴수",
+    "DESCRIPTION": "방어도 를 !B! 얻습니다. 턴이 시작 할 때마다 비용이 1 감소합니다."
+  },
+  "Fireguard": {
+    "NAME": "파괴의 화염수호정령",
+    "DESCRIPTION": "힘 을 1 + (0-4) 얻습니다. 턴이 끝나면 그 힘을 잃습니다. NL 과부하 : ( !M! )",
+	"UPGRADE_DESCRIPTION": "힘 을 3 + (0-4) 얻습니다. 턴이 끝나면 그 힘을 잃습니다. NL 과부하 : ( !M! )"
+  },
+  "Finderskeepers": {
+    "NAME": "이건 내 거야!",
+    "DESCRIPTION": "과부하 카드를 발견 합니다. NL 과부하 : ( !M! ), 소멸",
+	"UPGRADE_DESCRIPTION": "과부하 카드를 발견 합니다. NL 과부하 : ( !M! )"
+  },
+  "Evolve": {
+    "NAME": "진화",
+    "DESCRIPTION": "손에 있는 카드 중 !M! 장을 이번 전투동안 강화시킵니다. NL 소멸"
+  },
+  "Blazing": {
+    "NAME": "타오르는 기원",
+    "DESCRIPTION": "스킬 카드 1장을 발견합니다. NL 소멸"
+  },
+  "Unstable": {
+    "NAME": "불안정한 진화",
+    "DESCRIPTION": "내 카드중 1장을 강화시킵니다. 이 카드를 복사해 가져옵니다. NL 소멸, 휘발성",
+	"UPGRADE_DESCRIPTION": "내 카드중 1장을 강화시킵니다. 이 카드를 복사해 가져옵니다. NL 소멸"
+  },
+  "Fireelemental": {
+    "NAME": "불의 정령",
+    "DESCRIPTION": "피해를 !D! 줍니다."
+  },
+  "Jadelightning": {
+    "NAME": "비취 번개",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 힘 을 !M! 얻습니다."
+  },
+  "Tidalsurge": {
+    "NAME": "굽이치는 파도",
+    "DESCRIPTION": "피해를 !D! 줍니다. 체력을 !M! 회복합니다."
+  },
+  "Avalanche": {
+    "NAME": "눈사태",
+    "DESCRIPTION": "피해를 !D! 줍니다. 적을 기절시킵니다. NL 소멸"
+  },
+  "Beakeredlightning": {
+    "NAME": "비커에 담긴 번개",
+    "DESCRIPTION": "모든 적에게 피해를 !D! 줍니다. NL 과부하 : ( !M! )"
+  },
+  "Menacingnimbus": {
+    "NAME": "성난 먹구름",
+    "DESCRIPTION": "피해를 !D! 줍니다. 희귀등급이 아닌 임의의 공격카드 1장을 얻습니다. NL 소멸"
+  },
+  "Zap": {
+    "NAME": "찌릿!",
+    "DESCRIPTION": "피해를 !D! 줍니다. 과부하 : ( !M! )"
+  },
+  "Totemicsmash": {
+    "NAME": "토템 강타",
+    "DESCRIPTION": "피해를 !D! 줍니다. 비용이 0 인 소멸되는 무작위 토템카드 1장을 얻습니다.",
+	"UPGRADE_DESCRIPTION": "피해를 !D! 줍니다. 비용이 0 인 소멸되는 토템카드 1장을 선택합니다."
+  },
+  "Dustdevil": {
+    "NAME": "먼지 악령",
+    "DESCRIPTION": "피해를 !D! 씩 2번 줍니다. NL 과부하 : ( !M! )"
+  },
+  "Alakir": {
+    "NAME": "바람의 군주 알아키르",
+    "DESCRIPTION": "적 전체에 피해를 !D! 만큼 X번 줍니다. 방어도 를 X* !B! 만큼 얻습니다.",
+	"UPGRADE_DESCRIPTION": "적 전체에 피해를 !D! 만큼 X번 줍니다. 방어도 를 X* !B! 만큼 얻습니다. 인공물 을 X만큼 얻습니다."
+  },
+  "Airelemental": {
+    "NAME": "바람 정령",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 인공물 을 !M! 얻습니다."
+  },
+  "Dunemaul": {
+    "NAME": "모래망치 주술사",
+    "DESCRIPTION": "!D! 의 피해를 2번 줍니다. 50%의 확률로 엉뚱한 적을 공격합니다. NL 과부하 : ( !M! )"
+  },
+  "Likkim": {
+    "NAME": "츄르릅 봉",
+    "DESCRIPTION": "피해를 !D! 줍니다. 과부하 된 [E] 가 있다면, 두 배의 피해를 줍니다."
+  },
+  "Snowfurygiant": {
+    "NAME": "눈덩이 거인",
+    "DESCRIPTION": "피해를 !D! 줍니다. 과부하 를 얻는 만큼 비용이 감소합니다."
+  },
+  "Vitalitytotem": {
+    "NAME": "활력의 토템",
+    "DESCRIPTION": "내 턴이 끝날 때 체력을 !M! 회복합니다."
+  },
+  "Rumblingelemental": {
+    "NAME": "지축을 울리는 정령",
+    "DESCRIPTION": "공격 카드를 사용할 때 마다 임의의 적에게 !M! 의 피해를 줍니다."
+  },
+  "Spiritofthefrog": {
+    "NAME": "개구리의 혼",
+    "DESCRIPTION": "스킬 카드를 사용할 때 마다 뽑을 카드 더미에서 스킬카드를 !M! 장 뽑습니다.",
+	"UPGRADE_DESCRIPTION": "선천성 NL 스킬 카드를 사용할 때 마다 뽑을 카드 더미에서 스킬카드를 !M! 장 뽑습니다."
+  },
+  "Hagatha": {
+    "NAME": "마녀 하가사",
+    "DESCRIPTION": "모두에게 !D! 의 피해를 줍니다. 스킬카드를 사용할 때마다 무작위 스킬카드 1장을 얻습니다.",
+	"UPGRADE_DESCRIPTION": "모든 적에게 !D! 의 피해를 줍니다. 스킬카드를 사용할 때마다 무작위 스킬카드 1장을 얻습니다."
+  },
+  "Thralldeathseer": {
+    "NAME": "사령술사 스랄",
+    "DESCRIPTION": "손에 있는 모든 카드를 강화합니다. 내 턴이 시작할 때 손에 있는 무작위 카드 1장을 이번 전투동안 강화합니다."
+  },
+  "Thecoin": {
+    "NAME": "동전 한 닢",
+    "DESCRIPTION": "[E] 를 얻습니다. NL 소멸",
+	"UPGRADE_DESCRIPTION": "[E] [E] 를 얻습니다. NL 소멸"
+  },
+  "Thestormbringer": {
+    "NAME": "폭풍 인도기",
+    "DESCRIPTION": "손에 있는 모든 카드를 임의의 특별이나 희귀카드로 바꿉니다. 그 카드들은 이번 턴에만 [E] 가 1 감소합니다."
+  },
+  "Whiteeyes": {
+    "NAME": "백안",
+    "DESCRIPTION": "피해를 !D! 줍니다. '폭풍 수호자' 를 버린 카드더미에 넣습니다. NL 소멸"
+  },
+  "Thestormguardian": {
+    "NAME": "폭풍 수호자",
+    "DESCRIPTION": "피해를 !D! 줍니다. NL 소멸"
+  },
+  "Wartbringer": {
+    "NAME": "종양 전염꾼",
+    "DESCRIPTION": "내 소멸 카드더미에 있는 카드 수 만큼 피해를 줍니다."
+  } 
+}

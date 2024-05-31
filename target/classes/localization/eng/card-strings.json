@@ -1,0 +1,301 @@
+{
+  "Strike_Thrall": {
+    "NAME": "Strike",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Defend_Thrall": {
+    "NAME": "Defend",
+    "DESCRIPTION": "Gain !B! Block ."
+  },
+  "Farsight": {
+    "NAME": "Far Sight",
+    "DESCRIPTION": "Draw !M! card. NL The cost of the card reduced 1."
+  },
+  "Lightningbolt": {
+    "NAME": "Lightning Bolt",
+    "DESCRIPTION": "Deal !D! damage. NL Overload : ( !M! )"
+  },
+  "Earthshock": {
+    "NAME": "Earth Shock",
+    "DESCRIPTION": "Deal !D! damage. NL Apply !M! Vulnerable ."
+  },
+  "Manatidetotem": {
+    "NAME": "Mana Tide Totem",
+    "DESCRIPTION": "At the start of your turn, draw 1 more card.",
+	"UPGRADE_DESCRIPTION": "Innate NL At the start of your turn, draw 1 more card."
+  },
+  "Flametonguetotem": {
+    "NAME": "Flametongue Totem",
+    "DESCRIPTION": "Gain !M! Strength NL for every three of my relics."
+  },
+  "Doomhammer": {
+    "NAME": "Doomhammer",
+    "DESCRIPTION": "Gain 0 Strength . NL Overload : ( !M! )",
+	"UPGRADE_DESCRIPTION": "Gain 5 Strength. NL Overload : ( !M! )"
+  },
+  "Hallazeal": {
+    "NAME": "Hallazeal the Ascended",
+    "DESCRIPTION": "Whenever an attack card deals damage, heal for 50% of damage"
+  },
+  "Tunneltrogg": {
+    "NAME": "Tunnel Trogg",
+    "DESCRIPTION": "Whenever you Overload, gain Strength per locked [E] .",
+	"UPGRADE_DESCRIPTION": "Innate NL Whenever you Overload, gain Strength per locked [E] ."
+  },
+  "Therunespear": {
+    "NAME": "The Runespear",
+    "DESCRIPTION": "Discover a card after using an attack card. NL Reduce the cost of the card by 1 for this turn."
+  },
+  "Eureka": {
+    "NAME": "Eureka!",
+    "DESCRIPTION": "Use a Power card in my hand."
+  },
+  "Earthelemental": {
+    "NAME": "Earth Elemental",
+    "DESCRIPTION": "Gain !B! Block . NL Overload : ( !M! )"
+  },
+  "Hex": {
+    "NAME": "Hex",
+    "DESCRIPTION": "Apply !M! Vulnerable . NL Exhaust"
+  },
+  "Devolve": {
+    "NAME": "Devolve",
+    "DESCRIPTION": "Apply !M! Weak to ALL enemies. NL Exhaust",
+	"UPGRADE_DESCRIPTION": "Apply !M! Weak to ALL enemies."
+  },
+  "Elementaryreaction": {
+    "NAME": "Elementary Reaction",
+    "DESCRIPTION": "Draw !M! card(s). NL Copy it."
+  },
+  "Ancestralknow": {
+    "NAME": "Ancestral Knowledge",
+    "DESCRIPTION": "Draw 4 cards. NL Overload : ( !M! )"
+  },
+  "Eternalsentinel": {
+    "NAME": "Eternal Sentinel",
+    "DESCRIPTION": "Unlock your Overload [E] ."
+  },
+  "Rockbiter": {
+    "NAME": "Rockbiter Weapon",
+    "DESCRIPTION": "Gain !M! Strength . NL At the end of your turn, lose !M! Strength ."
+  },
+  "Maelstromportal": {
+    "NAME": "Maelstrom Portal",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain a random effect.",
+	"UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies. NL Gain a random positive effect."
+  },
+  "Crackle": {
+    "NAME": "Crackle",
+    "DESCRIPTION": "Deal !D! + (0-5) damage. NL Overload : ( !M! )"
+  },
+  "Lightningstorm": {
+    "NAME": "Lightning Storm",
+    "DESCRIPTION": "Deal NL !D! + (0-5) damage to ALL enemies. NL Overload : ( !M! )"
+  },
+  "Volcano": {
+    "NAME": "Volcano",
+    "DESCRIPTION": "Deal !D! damage randomly split among all enemies. NL Overload : ( !M! )"
+  },
+  "Elementaldestruction": {
+    "NAME": "Elemental Destruction",
+    "DESCRIPTION": "Deal !D! + (0 or 10 or 20)damage to ALL enemies. NL Overload : ( !M! )"
+  },
+  "Lavaburst": {
+    "NAME": "Lava Burst",
+    "DESCRIPTION": "Deal !D! damage. NL Overload : ( !M! )"
+  },
+  "Forkedlightning": {
+    "NAME": "Forked Lightning",
+    "DESCRIPTION": "Deal !D! damage to 2 random enemys. NL Overload : ( !M! )"
+  },
+  "Basicattack": {
+    "NAME": "Searing Totem",
+    "DESCRIPTION": "Deal !D! damage to a random enemy. NL Exhaust"
+  },
+  "Basicarmor": {
+    "NAME": "Stoneclaw Totem",
+    "DESCRIPTION": "Gain !B! Block . NL Exhaust"
+  },
+  "Basicstrength": {
+    "NAME": "Wrath of Air Totem",
+    "DESCRIPTION": "Gain !M! Strength . NL Exhaust"
+  },
+  "Basicheal": {
+    "NAME": "Healing Totem",
+    "DESCRIPTION": "Restore !M! HP. NL Exhaust"
+  },
+  "Healingrain": {
+    "NAME": "Healing Rain",
+    "DESCRIPTION": "Restore !D! HP. NL Affected by Strength . NL Exhaust"
+  },
+  "Healingwave": {
+    "NAME": "Healing Wave",
+    "DESCRIPTION": "Restore !M! HP. NL If an enemy intends to attack, restore once more. NL Exhaust",
+	"UPGRADE_DESCRIPTION": "Restore !M! HP. NL If an enemy intends to attack, restore once more."
+  },
+  "Drakkaridefender": {
+    "NAME": "Drakkari Defender",
+    "DESCRIPTION": "Gain !B! Block . NL Overload: ( !M! ) NL Exhaust"
+  },
+  "Cryostasis": {
+    "NAME": "Cryostasis",
+    "DESCRIPTION": "Gain !M! Strength . NL Gain Entangle ."
+  },
+  "Shudderwock": {
+    "NAME": "Shudderwock",
+    "DESCRIPTION": "Using all the attack cards(except [E] is X cards) you used during this combat. NL (targets chosen randomly), Exhaust"
+  },
+  "Jadecheiftain": {
+    "NAME": "Jade Chieftain",
+    "DESCRIPTION": "Gain !B! Block . NL Gain more Block 50% of Strength ."
+  },
+  "Reincarnate": {
+    "NAME": "Reincarnate",
+    "DESCRIPTION": "Take !M! card(s) from your Exhaust pile into your hand. NL Exhaust"
+  },
+  "Frostshock": {
+    "NAME": "Frost Shock",
+    "DESCRIPTION": "Deal !D! damage. NL Reduce !M! Strength ."
+  },
+  "Murksparkeel": {
+    "NAME": "Murkspark Eel",
+    "DESCRIPTION": "Deal !D! damage. NL If your drawpile has only odd [E] cards, deal triple damage."
+  },
+  "Witchsapprentice": {
+    "NAME": "Witch's Apprentice",
+    "DESCRIPTION": "Gain !B! Block . Add a random Skill card to your hand. NL Exhaust"
+  },
+  "Jinyu": {
+    "NAME": "Jinyu Waterspeaker",
+    "DESCRIPTION": "Restore 10 HP. NL Overload : ( !M! )",
+	"UPGRADE_DESCRIPTION": "Restore 15 HP. NL Overload : ( !M! )"
+  },
+  "Thingfrombelow": {
+    "NAME": "Thing from Below",
+    "DESCRIPTION": "Gain !B! Block . At the start of your turn, reduce [E] of this card. "
+  },
+  "Fireguard": {
+    "NAME": "Fireguard Destroyer",
+    "DESCRIPTION": "Gain 1 + (0-4) Strength . At the end of your turn, lose the Strength . NL Overload : ( !M! )",
+	"UPGRADE_DESCRIPTION": "Gain 3 + (0-4) Strength . At the end of your turn, lose the Strength . NL Overload : ( !M! )"
+  },
+  "Finderskeepers": {
+    "NAME": "이건 내 거야!",
+    "DESCRIPTION": "과부하 카드를 발견 합니다. NL Overload : ( !M! ), Exhaust",
+	"UPGRADE_DESCRIPTION": "과부하 카드를 발견 합니다. NL Overload : ( !M! )"
+  },
+  "Evolve": {
+    "NAME": "Evolve",
+    "DESCRIPTION": "Upgrade !M! card(s) for this combat. NL Exhaust"
+  },
+  "Blazing": {
+    "NAME": "Blazing Invocation",
+    "DESCRIPTION": "Discover a Skill card. NL Exhaust"
+  },
+  "Unstable": {
+    "NAME": "Unstable Evolution",
+    "DESCRIPTION": "Upgrade a card. Copy this. NL Exhaust , Ethereal",
+	"UPGRADE_DESCRIPTION": "Upgrade a card. Copy this. NL Exhaust"
+  },
+  "Fireelemental": {
+    "NAME": "Fire Elemental",
+    "DESCRIPTION": "Deal !D! damage."
+  },
+  "Jadelightning": {
+    "NAME": "Jade Lightning",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Strength ."
+  },
+  "Tidalsurge": {
+    "NAME": "Tidal Surge",
+    "DESCRIPTION": "Deal !D! damage. Restore !M! HP."
+  },
+  "Avalanche": {
+    "NAME": "Avalanche",
+    "DESCRIPTION": "Deal !D! damage. Stun the enemy. NL Exhaust"
+  },
+  "Beakeredlightning": {
+    "NAME": "Beakered Lightning",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies. NL Overload : ( !M! )"
+  },
+  "Menacingnimbus": {
+    "NAME": "Menacing Nimbus",
+    "DESCRIPTION": "Deal !D! damage. Add a COMMON or UNCOMMON attack card. NL Exhaust"
+  },
+  "Zap": {
+    "NAME": "Zap!",
+    "DESCRIPTION": "Deal !D! damage. Overload : ( !M! )"
+  },
+  "Totemicsmash": {
+    "NAME": "Totemic Smash",
+    "DESCRIPTION": "Deal !D! damage. Add a random totem card ( [E] is 0, Exhaust ).",
+	"UPGRADE_DESCRIPTION": "Deal !D! damage. Choose a random totem card ( [E] is 0, Exhaust )."
+  },
+  "Dustdevil": {
+    "NAME": "Dust Devil",
+    "DESCRIPTION": "Deal !D! damage twice. NL Overload : ( !M! )"
+  },
+  "Alakir": {
+    "NAME": "Al'Akir the Windlord",
+    "DESCRIPTION": "Deal !D! damage to ALL enemies X times. Gain X* !B! Block.",
+	"UPGRADE_DESCRIPTION": "Deal !D! damage to ALL enemies X times. Gain X* !B! Block. Gain X Artifact ."
+  },
+  "Airelemental": {
+    "NAME": "Air Elemental",
+    "DESCRIPTION": "Deal !D! damage. NL Gain !M! Artifact ."
+  },
+  "Dunemaul": {
+    "NAME": "Dunemaul Shaman",
+    "DESCRIPTION": "Deal !D! damage twice. 50% chance to attack the wrong enemy. NL Overload : ( !M! )"
+  },
+  "Likkim": {
+    "NAME": "Likkim",
+    "DESCRIPTION": "Deal !D! damage. If you have Overload [E] , deal double damage."
+  },
+  "Snowfurygiant": {
+    "NAME": "Snowfury Giant",
+    "DESCRIPTION": "Deal !D! damage. [E] less for each Overload ."
+  },
+  "Vitalitytotem": {
+    "NAME": "Vitality Totem",
+    "DESCRIPTION": "At the start of your turn, restore !M! HP."
+  },
+  "Rumblingelemental": {
+    "NAME": "Rumbling Elemental",
+    "DESCRIPTION": "Whenever you play an attack card, deal !M! damage to a random enemy."
+  },
+  "Spiritofthefrog": {
+    "NAME": "Spirit of the Frog",
+    "DESCRIPTION": "Whenever you play an Skill card, draw !M! card in drawpile.",
+	"UPGRADE_DESCRIPTION": "Innate, Whenever you play an Skill card, draw !M! card in drawpile."
+  },
+  "Hagatha": {
+    "NAME": "Hagatha the Witch",
+    "DESCRIPTION": "Deal !D! damage everyone. Whenever you play an Skill card, add a random Skill card to your hand.",
+	"UPGRADE_DESCRIPTION": "eal !D! damage to ALL enemies. Whenever you play an Skill card, add a random Skill card to your hand."
+  },
+  "Thralldeathseer": {
+    "NAME": "Thrall, Deathseer",
+    "DESCRIPTION": "Upgrade every cards in your hand. At the start of your turn, Upgrade a card in your hand for the rest of combat."
+  },
+  "Thecoin": {
+    "NAME": "The coin",
+    "DESCRIPTION": "Gain [E] . NL Exhaust ",
+	"UPGRADE_DESCRIPTION": "Gain [E] [E] . NL Exhaust"
+  },
+  "Thestormbringer": {
+    "NAME": "The Storm Bringer",
+    "DESCRIPTION": "Transform all cards in your hand into random UNCOMMON or RARE cards. Reduce the cost of the cards by 1 for this turn.."
+  },
+  "Whiteeyes": {
+    "NAME": "White eyes",
+    "DESCRIPTION": "Deal !D! damage. Add a 'The Storm Guardian' in your discard pile. NL Exhaust"
+  },
+  "Thestormguardian": {
+    "NAME": "The Storm Guardian",
+    "DESCRIPTION": "Deal !D! damage. NL Exhaust"
+  },
+  "Wartbringer": {
+    "NAME": "Wartbrigner",
+    "DESCRIPTION": "Deal damage equal to your the number of cards in the Exhaust pile."
+  }
+}
